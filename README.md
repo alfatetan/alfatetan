@@ -1,6 +1,9 @@
-### Hi there 👋
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=500&center=true&multiline=true&random=false&width=550&height=120&lines=SERGEI+RIABOV;Automation+QA+Engineer;Python+%7C+JavaScript+%7C+Linux;Selenium+%7C+Behave+BDD+%7C+SQL+%7C+API)](https://git.io/typing-svg)
+
+### Hello, and welcome to my GitHub page!
+
+#### The main product of Testing is the discrepancies found between the expected result and the current result.
+#### The main product of Automation QA Engineer is a test framework that finds these discrepancies and informs about them.
 
 <!--
 **alfatetan/Alfatetan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
