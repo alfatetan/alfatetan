@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=500&center=true&multiline=true&random=false&width=550&height=120&lines=SERGEI+RIABOV;Automation+QA+Engineer;Python+%7C+JavaScript+%7C+Linux;Selenium+%7C+Behave+BDD+%7C+SQL+%7C+API)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=1000&multiline=true&random=false&width=460&height=68&lines=Sergei+Riabov;Automation+QA+Engineer)](https://git.io/typing-svg)
 
 ### Hello, and welcome to my GitHub page!
 
