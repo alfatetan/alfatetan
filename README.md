@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Sergei+Riabov;Automation+QA+Engineer;Python+%7C+JavaScript+%7C+Linux+%7C+Selenium+%7C+Behave+%20+BDD+%7C+SQL+%7C+API)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?multiline=true&lines=Sergei+Riabov;Automation+QA+Engineer;Python+%7C+JavaScript+%7C+Linux+%7C+Selenium+%7C+Behave+%20+BDD+%7C+SQL+%7C+API)](https://git.io/typing-svg)
 
 <!--
 **alfatetan/Alfatetan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
