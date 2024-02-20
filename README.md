@@ -20,9 +20,9 @@
 - Other technologies: Asterisk (VoIP telephony), IP PBX, AGI Scripts, Jupyter Notebook
 ----------------
 
-
+My repositories:
 [eBay simple QA Framework](https://github.com/alfatetan/qa_automation_sample_ebay)
-
+[Robotic Calls - old version](https://github.com/alfatetan/robotron)
 <!--
 **alfatetan/Alfatetan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
