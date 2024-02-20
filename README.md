@@ -11,7 +11,7 @@
 
 **Test Automation:** Selenium WebDriver, Behave, PyTest, Jenkins, Postman, Swagger, Allure
 
-- Languages: Python, JavaScript, HTML, CSS, SQL, Gherkin, BASH
+- **Languages:** Python, JavaScript, HTML, CSS, SQL, Gherkin, BASH
 - Frameworks: Flask, FastAPI, Bootstrap
 - System: Docker, VPN, DNS, SSH, VirtualBox, VMWare, Hyper-V
 - Methodologies: Agile Scrum, OOP, MVC
