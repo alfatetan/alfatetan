@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=1000&multiline=true&random=false&width=460&height=68&lines=Sergei+Riabov;Automation+QA+Engineer)](https://git.io/typing-svg)
 
-[Contact with me via LinkedIn](www.linkedin.com/in/sergei-riabov)
+[Contact with me via LinkedIn](https://www.linkedin.com/in/sergei-riabov)
 
 ### Hello, and welcome to my GitHub page!
 
@@ -30,7 +30,7 @@ Jul 2006
 
 ----------------
 
-[Contact with me via LinkedIn](www.linkedin.com/in/sergei-riabov)
+[Contact with me via LinkedIn](https://www.linkedin.com/in/sergei-riabov)
 
 ### My repositories:
 
