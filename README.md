@@ -3,7 +3,9 @@
 ### Hello, and welcome to my GitHub page!
 
 #### The main product of Testing is the discrepancies found between the expected result and the current result.
-#### The main product of Automation QA Engineer is a test framework that finds these discrepancies and informs about them.
+#### The main product of Automation QA Engineer is a test framework that finds and informs about these discrepancies.
+
+[eBay simple QA Framework](https://github.com/alfatetan/qa_automation_sample_ebay)
 
 <!--
 **alfatetan/Alfatetan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
