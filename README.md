@@ -30,9 +30,10 @@ Jul 2006
 
 ### My repositories:
 
-[eBay simple QA Framework](https://github.com/alfatetan/qa_automation_sample_ebay)
+[eBay QA Framework](https://github.com/alfatetan/qa_automation_sample_ebay) - the simple QA Framework
 
-[Robotic Calls - old version](https://github.com/alfatetan/robotron)
+[Robotic Calls - old version](https://github.com/alfatetan/robotron) - Robotic Calls automation sample
+
 <!--
 **alfatetan/Alfatetan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
