@@ -6,8 +6,11 @@
 #### The main product of Automation QA Engineer is a test framework that finds and informs about these discrepancies.
 ----------------
 #### My Technical Skills:
-*Platforms:* Linux / Unix (Debian/Ubuntu, RedHat/CentOS families and MacOS), Windows
-*Test Automation:* Selenium WebDriver, Behave, PyTest, Jenkins, Postman, Swagger, Allure
+
+**Platforms:** Linux / Unix (Debian/Ubuntu, RedHat/CentOS families and MacOS), Windows
+
+**Test Automation:** Selenium WebDriver, Behave, PyTest, Jenkins, Postman, Swagger, Allure
+
 - Languages: Python, JavaScript, HTML, CSS, SQL, Gherkin, BASH
 - Frameworks: Flask, FastAPI, Bootstrap
 - System: Docker, VPN, DNS, SSH, VirtualBox, VMWare, Hyper-V
