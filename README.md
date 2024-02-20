@@ -20,6 +20,13 @@
 - **Version Control Tools:** Git, GitHub, DockerHub, GitLab
 - **Other technologies:** Asterisk (VoIP telephony), IP PBX, AGI Scripts, Jupyter Notebook
 ----------------
+#### Education
+
+Comprehensive protection of informatization objects and information protection (Cyber Security)
+Bachelor's Degree in Computer Science: Ufa State Aviation Technical University (Russia)
+Jul 2006
+
+----------------
 
 ### My repositories:
 
