@@ -7,20 +7,18 @@
 ----------------
 #### My Technical Skills:
 
-**Platforms:** Linux / Unix (Debian/Ubuntu, RedHat/CentOS families and MacOS), Windows
-
-**Test Automation:** Selenium WebDriver, Behave, PyTest, Jenkins, Postman, Swagger, Allure
-
+- **Platforms:** Linux / Unix (Debian/Ubuntu, RedHat/CentOS families and MacOS), Windows
+- **Test Automation:** Selenium WebDriver, Behave, PyTest, Jenkins, Postman, Swagger, Allure
 - **Languages:** Python, JavaScript, HTML, CSS, SQL, Gherkin, BASH
-- Frameworks: Flask, FastAPI, Bootstrap
-- System: Docker, VPN, DNS, SSH, VirtualBox, VMWare, Hyper-V
-- Methodologies: Agile Scrum, OOP, MVC
-- Databases: MySQL, MariaDB, PostgreSQL, ElasticSearch, Firebird
-- Web and Networking: Apache, NGINX, IPTables, REST API, IP Routing, TCP/IP, DNS, VPN, VPS and VDS, SMTP, POP, IMAP
-- Cloud Technologies: AWS (EC2, S3, RDS), Yandex Cloud
-- Bug Tracking / Project Management: JIRA, XRay, Confluence, Bitrix24
-- Version Control Tools: Git, GitHub, DockerHub, GitLab
-- Other technologies: Asterisk (VoIP telephony), IP PBX, AGI Scripts, Jupyter Notebook
+- **Frameworks:** Flask, FastAPI, Bootstrap
+- **System:** Docker, VPN, DNS, SSH, VirtualBox, VMWare, Hyper-V
+- **Methodologies:** Agile Scrum, OOP, MVC
+- **Databases:** MySQL, MariaDB, PostgreSQL, ElasticSearch, Firebird
+- **Web and Networking:** Apache, NGINX, IPTables, REST API, IP Routing, TCP/IP, DNS, VPN, VPS and VDS, SMTP, POP, IMAP
+- **Cloud Technologies:** AWS (EC2, S3, RDS), Yandex Cloud
+- **Bug Tracking / Project Management:** JIRA, XRay, Confluence, Bitrix24
+- **Version Control Tools:** Git, GitHub, DockerHub, GitLab
+- **Other technologies:** Asterisk (VoIP telephony), IP PBX, AGI Scripts, Jupyter Notebook
 ----------------
 
 ### My repositories:
