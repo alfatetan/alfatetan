@@ -54,6 +54,12 @@ WEBDESIGN
 
 [Rewind Website Layout](https://github.com/alfatetan/html_css_layout_ex_rewind) - Example of website layout
 
+CRYPTO / ETHEREUM API
+
+[ERC20 Wallets Balances Tracker](https://github.com/alfatetan/erc20_wallets_tracker)
+
+[Parse price history to JSON](https://github.com/alfatetan/get_token_prices_to_json)
+
 <!--
 **alfatetan/Alfatetan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
