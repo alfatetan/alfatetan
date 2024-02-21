@@ -1,7 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=500&multiline=true&random=false&width=460&height=96&lines=Sergei+Riabov;Automation+QA+Engineer;Los+Angeles%2C+California%2C+USA)](https://git.io/typing-svg)
 
-[Contact with me via LinkedIn](https://www.linkedin.com/in/sergei-riabov)
+Contact with me via:
+
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=LinkedIn&logoColor=blue)](https://www.linkedin.com/in/sergei-riabov)
+[![Gmail](https://img.shields.io/badge/-Email-090909?style=for-the-badge&logo=Gmail&logoColor=rd)](mailto:sergei.riabov.us@gmail.com)
 
 ### Hello, and welcome to my GitHub page!
 
@@ -31,8 +33,10 @@ Jul 2006
 
 ----------------
 
-[Contact with me via LinkedIn](https://www.linkedin.com/in/sergei-riabov)
+Contact with me via:
+
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=LinkedIn&logoColor=blue)](https://www.linkedin.com/in/sergei-riabov)
+[![Gmail](https://img.shields.io/badge/-Email-090909?style=for-the-badge&logo=Gmail&logoColor=rd)](mailto:sergei.riabov.us@gmail.com)
 
 ### My repositories:
 
