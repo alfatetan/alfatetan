@@ -60,6 +60,10 @@ CRYPTO / ETHEREUM API
 
 [Parse price history to JSON](https://github.com/alfatetan/get_token_prices_to_json)
 
+NETWORK
+
+[Example of socket implementation](https://github.com/alfatetan/sockets_simple)
+
 <!--
 **alfatetan/Alfatetan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
