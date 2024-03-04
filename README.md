@@ -38,7 +38,7 @@ Jul 2006
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=LinkedIn&logoColor=blue)](https://www.linkedin.com/in/sergei-riabov)
 [![Gmail](https://img.shields.io/badge/-Email-090909?style=for-the-badge&logo=Gmail&logoColor=rd)](mailto:sergei.riabov.us@gmail.com)
 
-### My repositories:
+### You can see my portfolio in the repositories:
 
 AUTOMATION
 
