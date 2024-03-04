@@ -40,13 +40,13 @@ Jul 2006
 
 ### You can see my portfolio in the repositories:
 
-==AUTOMATION==
+<mark>AUTOMATION</mark>
 
 [eBay QA Framework](https://github.com/alfatetan/qa_automation_sample_ebay) - the simple QA Framework
 
 [Robotic Calls - old version](https://github.com/alfatetan/robotron) - Robotic Calls automation sample
 
-==WEBDESIGN==
+<mark>WEBDESIGN</mark>
 
 [Interior Website Layout](https://github.com/alfatetan/html_css_layout_ex_interior) - Example of website layout
 
@@ -54,13 +54,13 @@ Jul 2006
 
 [Rewind Website Layout](https://github.com/alfatetan/html_css_layout_ex_rewind) - Example of website layout
 
-==CRYPTO / ETHEREUM API==
+<mark>CRYPTO / ETHEREUM API</mark>
 
 [ERC20 Wallets Balances Tracker](https://github.com/alfatetan/erc20_wallets_tracker)
 
 [Parse price history to JSON](https://github.com/alfatetan/get_token_prices_to_json)
 
-==NETWORK==
+<mark>NETWORK</mark>
 
 [Example of socket implementation](https://github.com/alfatetan/sockets_simple)
 
