@@ -12,7 +12,7 @@
 #### The main product of Testing is the discrepancies found between the expected result and the current result.
 #### The main product of Automation QA Engineer is a test framework that finds and informs about these discrepancies.
 ----------------
-#### My Technical Skills:
+#### :computer: My Technical Skills:
 
 - **Platforms:** Linux / Unix (Debian/Ubuntu, RedHat/CentOS families and MacOS), Windows
 - **Test Automation:** Selenium WebDriver, Behave, PyTest, Jenkins, Postman, Swagger, Allure
@@ -27,7 +27,7 @@
 - **Version Control Tools:** Git, GitHub, DockerHub, GitLab
 - **Other technologies:** Asterisk (VoIP telephony), IP PBX, AGI Scripts, Jupyter Notebook
 ----------------
-#### Education
+#### :man_student: Education
 
 Comprehensive protection of informatization objects and information protection (Cyber Security)
 Bachelor's Degree in Computer Science: Ufa State Aviation Technical University (Russia)
