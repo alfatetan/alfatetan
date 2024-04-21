@@ -35,13 +35,6 @@ Jul 2006
 
 ----------------
 
-**Contact with me via:**
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=LinkedIn&logoColor=blue)](https://www.linkedin.com/in/sergei-riabov)
-[![Gmail](https://img.shields.io/badge/-Email-090909?style=for-the-badge&logo=Gmail&logoColor=rd)](mailto:sergei.riabov.us@gmail.com)
-
-----------------
-
 ### :briefcase: You can look at my portfolio in the repositories:
 
 <mark>AUTOMATION</mark>
@@ -67,6 +60,13 @@ Jul 2006
 <mark>NETWORK</mark>
 
 [Example of socket implementation](https://github.com/alfatetan/sockets_simple)
+
+----------------
+
+**Contact with me via:**
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=LinkedIn&logoColor=blue)](https://www.linkedin.com/in/sergei-riabov)
+[![Gmail](https://img.shields.io/badge/-Email-090909?style=for-the-badge&logo=Gmail&logoColor=rd)](mailto:sergei.riabov.us@gmail.com)
 
 <!--
 **alfatetan/Alfatetan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
