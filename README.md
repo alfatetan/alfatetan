@@ -10,30 +10,38 @@
 #### If you want to look at my portfolio repositories, scroll below :point_down:
 
 #### The main product of Testing is the discrepancies found between the expected result and the current result.
+
 #### The main product of Automation QA Engineer is a test framework that finds and informs about these discrepancies.
-----------------
+
+---
+
 #### :computer: My Technical Skills:
 
 - **Platforms:** Linux / Unix (Debian/Ubuntu, RedHat/CentOS families and MacOS), Windows
-- **Test Automation:** Selenium WebDriver, Behave, PyTest, Jenkins, Postman, Swagger, Allure
-- **Languages:** Python, JavaScript, HTML, CSS, SQL, Gherkin, BASH
+- **Test Automation:** Selenium WebDriver, Behave, PyTest, Jenkins, Postman, Swagger, Allure, REST APIs, Sockets, CI/CD
+- **Languages:** Python, JavaScript, HTML, CSS, SQL, Gherkin, BASH. XML
 - **Frameworks:** Flask, FastAPI, Bootstrap
 - **System:** Docker, VPN, DNS, SSH, VirtualBox, VMWare, Hyper-V
-- **Methodologies:** Agile Scrum, OOP, MVC
-- **Databases:** MySQL, MariaDB, PostgreSQL, ElasticSearch, Firebird
+- **Methodologies:** Agile Scrum, OOP, MVC. SDLC, STLC
+- **Databases:** MySQL, MariaDB, Redis, PostgreSQL, ElasticSearch, Firebird
 - **Web and Networking:** Apache, NGINX, IPTables, REST API, IP Routing, TCP/IP, DNS, VPN, VPS and VDS, SMTP, POP, IMAP
-- **Cloud Technologies:** AWS (EC2, S3, RDS), Yandex Cloud
+- **Cloud Technologies:** AWS SDK (EC2, S3, RDS), Yandex Cloud
 - **Bug Tracking / Project Management:** JIRA, XRay, Confluence, Bitrix24
 - **Version Control Tools:** Git, GitHub, DockerHub, GitLab
 - **Other technologies:** Asterisk (VoIP telephony), IP PBX, AGI Scripts, Jupyter Notebook
-----------------
+- **IDE:** VSCode, EMACS, PyCharm
+- **Other skills:** Analysis skills, Software Testing, Test-Driven Development
+- **Experience with** Software Development, Front-end Development, Back-end Development, Full Stack Development
+
+---
+
 #### :man_student: Education
 
 Comprehensive protection of informatization objects and information protection (Cyber Security)
 Bachelor's Degree in Computer Science: Ufa State Aviation Technical University (Russia)
 Jul 2006
 
-----------------
+---
 
 ### :briefcase: You can look at my portfolio in the repositories:
 
@@ -61,7 +69,7 @@ Jul 2006
 
 [Example of socket implementation](https://github.com/alfatetan/sockets_simple)
 
-----------------
+---
 
 **Contact with me via:**
 
