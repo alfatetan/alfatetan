@@ -18,7 +18,7 @@
 #### :computer: My Technical Skills:
 
 - **Platforms:** Linux / Unix (Debian/Ubuntu, RedHat/CentOS families and MacOS), Windows
-- **Test Automation:** Selenium WebDriver, Behave, PyTest, Jenkins, Postman, Swagger, Allure, REST APIs, Sockets, CI/CD
+- **Test Automation:** Selenium WebDriver, Behave, Cucumber, PyTest, Jenkins, Postman, Swagger, Allure, REST APIs, Sockets, CI/CD
 - **Languages:** Python, JavaScript, HTML, CSS, SQL, Gherkin, BASH. XML
 - **Frameworks:** Flask, FastAPI, Bootstrap
 - **System:** Docker, VPN, DNS, SSH, VirtualBox, VMWare, Hyper-V
