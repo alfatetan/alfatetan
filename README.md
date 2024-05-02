@@ -31,7 +31,7 @@
 - **Other technologies:** Asterisk (VoIP telephony), IP PBX, AGI Scripts, Jupyter Notebook
 - **IDE:** VSCode, EMACS, PyCharm
 - **Other skills:** Analysis skills, Software Testing, Test-Driven Development
-- **Experience with** Software Development, Front-end Development, Back-end Development, Full Stack Development
+- **Experience with:** Software Development, Front-end Development, Back-end Development, Full Stack Development
 
 ---
 
