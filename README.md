@@ -21,17 +21,17 @@
 - **Test Automation:** Selenium WebDriver, Behave, Cucumber, PyTest, Jenkins, Postman, Swagger, Allure, REST APIs, Sockets, CI/CD
 - **Languages:** Python, JavaScript, HTML, CSS, SQL, Gherkin, BASH. XML
 - **Frameworks:** Flask, FastAPI, Bootstrap
-- **System:** Docker, VPN, DNS, SSH, VirtualBox, VMWare, Hyper-V
+- **System:** Docker, Kubernetes, VPN, DNS, SSH, VirtualBox, VMWare, Hyper-V
 - **Methodologies:** Agile Scrum, OOP, MVC. SDLC, STLC
 - **Databases:** MySQL, MariaDB, Redis, PostgreSQL, ElasticSearch, Firebird
 - **Web and Networking:** Apache, NGINX, IPTables, REST API, IP Routing, TCP/IP, DNS, VPN, VPS and VDS, SMTP, POP, IMAP
 - **Cloud Technologies:** AWS SDK (EC2, S3, RDS), Yandex Cloud
-- **Bug Tracking / Project Management:** JIRA, XRay, Confluence, Bitrix24
+- **Bug Tracking / Project Management:** JIRA, XRay, Confluence, Jama, Bitrix24
 - **Version Control Tools:** Git, GitHub, DockerHub, GitLab
-- **Other technologies:** Asterisk (VoIP telephony), IP PBX, AGI Scripts, Jupyter Notebook
-- **IDE:** VSCode, EMACS, PyCharm
+- **Other technologies:** Asterisk (VoIP telephony), IP PBX, AGI Scripts, Jupyter Notebook, Conductor, Rancher
+- **IDE:** VSCode, IntelliJ IDEA, Vim, EMACS, PyCharm
 - **Other skills:** Analysis skills, Software Testing, Test-Driven Development
-- **Experience with:** Software Development, Front-end Development, Back-end Development, Full Stack Development
+- **Experience with:** Software Development, Front-end Development, Back-end Development, Full Stack Development, API Testing
 
 ---
 
