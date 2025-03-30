@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&pause=500&color=E91202&multiline=true&random=false&width=435&height=105&lines=Sergei+Riabov;Python+Developer;Automation+QA+Engineer;Los+Angeles%2C+California%2C+USA)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=500&vCenter=true&multiline=true&width=435&height=150&lines=Sergei+Riabov;QA%2FSoftware+Engineer;Platform+Architecture;Los+Angeles%2C+California%2C+USA)](https://git.io/typing-svg)
 
 **Contact with me via:**
 
