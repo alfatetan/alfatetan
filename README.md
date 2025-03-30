@@ -17,18 +17,19 @@
 
 #### :computer: My Technical Skills:
 
-- **Platforms:** Linux / Unix (Debian/Ubuntu, RedHat/CentOS families and MacOS), Windows
-- **Test Automation:** Selenium WebDriver, Behave, Cucumber, PyTest, Jenkins, Postman, Swagger, Allure, REST APIs, Sockets, CI/CD
-- **Languages:** Python, JavaScript, HTML, CSS, SQL, Gherkin, BASH. XML
-- **Frameworks:** Flask, FastAPI, Bootstrap
+- **Platforms:** Linux / Unix (Debian/Ubuntu, RedHat/CentOS families, and MacOS)
+- **Test Automation:** Selenium WebDriver, Behave, Cucumber, PyTest, Postman, Swagger, Allure, REST APIs, Sockets
+- **CI/CD:** GitLab, GitHub, Jenkins
+- **Languages:** Python, JavaScript, HTML, CSS, SQL, Gherkin, BASH, XML
+- **Frameworks:** Flask, FastAPI, Bootstrap, Scala Test
 - **System:** Docker, Kubernetes, VPN, DNS, SSH, VirtualBox, VMWare, Hyper-V
 - **Methodologies:** Agile Scrum, OOP, MVC. SDLC, STLC
 - **Databases:** MySQL, MariaDB, Redis, PostgreSQL, ElasticSearch, Firebird
 - **Web and Networking:** Apache, NGINX, IPTables, REST API, IP Routing, TCP/IP, DNS, VPN, VPS and VDS, SMTP, POP, IMAP
 - **Cloud Technologies:** AWS SDK (EC2, S3, RDS), Yandex Cloud
 - **Bug Tracking / Project Management:** JIRA, XRay, Confluence, Jama, Bitrix24
-- **Version Control Tools:** Git, GitHub, DockerHub, GitLab
-- **Other technologies:** Asterisk (VoIP telephony), IP PBX, AGI Scripts, Jupyter Notebook, Conductor, Rancher
+- **Version Control Tools:** Git, GitHub, GitLab, DockerHub
+- **Other technologies:** Asterisk (VoIP telephony), IP PBX, AGI Scripts, Jupyter Notebook, Rancher
 - **IDE:** VSCode, IntelliJ IDEA, Vim, EMACS, PyCharm
 - **Other skills:** Analysis skills, Software Testing, Test-Driven Development
 - **Experience with:** Software Development, Front-end Development, Back-end Development, Full Stack Development, API Testing
