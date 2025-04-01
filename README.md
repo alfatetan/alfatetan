@@ -70,6 +70,10 @@ Jul 2006
 
 [Example of socket implementation](https://github.com/alfatetan/sockets_simple)
 
+<mark>Simple CI/CD</mark>
+
+[CI/CD Very Simple Demo Example](https://github.com/alfatetan/ci_python_demo)
+
 ---
 
 **Contact with me via:**
