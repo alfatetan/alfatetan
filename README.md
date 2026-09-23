@@ -1,4 +1,4 @@
-[[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=500&vCenter=true&multiline=true&width=435&height=150&lines=Sergei+Riabov;QA%2FSoftware+Engineer;Platform+Architecture;Los+Angeles%2C+California%2C+USA)](https://git.io/typing-svg)](https://readme-typing-svg.demolab.com/demo/?duration=2500&pause=500&multiline=true&width=420&height=130&lines=Sergey+Ryabov;Anomaly+detection+in+biotech;Reliability+%C2%B7+DevOps+%C2%B7+Infosec;Los+Angeles%2C+California%2C+USA;In+IT+since+2006)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=500&multiline=true&width=420&height=130&lines=Sergey+Ryabov;Anomaly+detection+in+biotech;Reliability+%C2%B7+DevOps+%C2%B7+Infosec;Los+Angeles%2C+California%2C+USA;In+IT+since+2006)](https://git.io/typing-svg)
 
 **Contact with me via:**
 
