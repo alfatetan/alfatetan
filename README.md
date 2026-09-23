@@ -9,7 +9,7 @@
 
 #### If you want to look at my portfolio repositories, scroll below :point_down:
 
-#### The main product of Testing is the discrepancies found between the expected result and the current result.
+#### The main product of Testing is the discrepancies found between the expected result and the actual result.
 
 #### The main product of Automation QA Engineer is a test framework that finds and informs about these discrepancies.
 
