@@ -38,9 +38,9 @@
 
 #### :man_student: Education
 
-Comprehensive protection of informatization objects and information protection (Cyber Security)
-Bachelor's Degree in Computer Science: Ufa State Aviation Technical University (Russia)
-Jul 2006
+Ufa State Aviation Technical University (Russia), 2006
+Specialist Diploma in Comprehensive Protection of Information Objects
+Evaluated as U.S. Master of Science in Information Security
 
 ---
 
@@ -79,7 +79,7 @@ Jul 2006
 **Contact with me via:**
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=LinkedIn&logoColor=blue)](https://www.linkedin.com/in/sergei-riabov)
-[![Gmail](https://img.shields.io/badge/-Email-090909?style=for-the-badge&logo=Gmail&logoColor=rd)](mailto:sergei.riabov.us@gmail.com)
+[![Gmail](https://img.shields.io/badge/-Email-090909?style=for-the-badge&logo=Gmail&logoColor=rd)](mailto:me@sryabov.com)
 
 <!--
 **alfatetan/Alfatetan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
