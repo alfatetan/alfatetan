@@ -1,97 +1,42 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=500&multiline=true&width=420&height=130&lines=Sergey+Ryabov;Anomaly+detection+in+biotech;Reliability+%C2%B7+DevOps+%C2%B7+Infosec;Los+Angeles%2C+California%2C+USA;In+IT+since+2006)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=500&multiline=true&width=420&height=110&lines=Sergey+Ryabov;Anomaly+detection+in+biotech;Reliability+%C2%B7+DevOps+%C2%B7+Infosec;Los+Angeles%2C+California%2C+USA)](https://git.io/typing-svg)
 
-**Contact with me via:**
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=LinkedIn&logoColor=blue)](https://www.linkedin.com/in/sergei-riabov)
-[![Gmail](https://img.shields.io/badge/-Email-090909?style=for-the-badge&logo=Gmail&logoColor=rd)](mailto:sergei.riabov.us@gmail.com)
-
-### Hello, and welcome to my GitHub page!
-
-#### If you want to look at my portfolio repositories, scroll below :point_down:
-
-#### The main product of Testing is the discrepancies found between the expected result and the actual result.
-
-#### The main product of Automation QA Engineer is a test framework that finds and informs about these discrepancies.
+## Hello, and welcome to my GitHub page!
 
 ---
 
-#### :computer: My Technical Skills:
+#### :computer: My stack:
 
-- **Platforms:** Linux / Unix (Debian/Ubuntu, RedHat/CentOS families, and MacOS)
-- **Test Automation:** Selenium WebDriver, Behave, Cucumber, PyTest, Postman, Swagger, Allure, REST APIs, Sockets
-- **CI/CD:** GitLab, GitHub, Jenkins
-- **Languages:** Python, JavaScript, HTML, CSS, SQL, Gherkin, BASH, XML
-- **Frameworks:** Flask, FastAPI, Bootstrap, Scala Test
-- **System:** Docker, Kubernetes, VPN, DNS, SSH, VirtualBox, VMWare, Hyper-V
-- **Methodologies:** Agile Scrum, OOP, MVC. SDLC, STLC
-- **Databases:** MySQL, MariaDB, Redis, PostgreSQL, ElasticSearch, Firebird
-- **Web and Networking:** Apache, NGINX, IPTables, REST API, IP Routing, TCP/IP, DNS, VPN, VPS and VDS, SMTP, POP, IMAP
-- **Cloud Technologies:** AWS SDK (EC2, S3, RDS), Yandex Cloud
-- **Bug Tracking / Project Management:** JIRA, XRay, Confluence, Jama, Bitrix24
-- **Version Control Tools:** Git, GitHub, GitLab, DockerHub
-- **Other technologies:** Asterisk (VoIP telephony), IP PBX, AGI Scripts, Jupyter Notebook, Rancher
-- **IDE:** VSCode, IntelliJ IDEA, Vim, EMACS, PyCharm
-- **Other skills:** Analysis skills, Software Testing, Test-Driven Development
-- **Experience with:** Software Development, Front-end Development, Back-end Development, Full Stack Development, API Testing
+- **Core:** Python, SQL, Bash, Linux (Debian, Ubuntu, RHEL), Unix (macOS), Kubernetes (Helm), Docker, CI/CD (Jenkins, GitLab CI, GitHub Actions), AWS, Kafka, Datadog
+- **ML / Data science:** pandas, NumPy, scikit-learn, Jupyter, Azure AI Speech (speech recognition, pronunciation assessment)
+- **Data & storage:** Oracle, PostgreSQL, MySQL/MariaDB, SQLite, Redis, DuckDB, Parquet
+- **Infrastructure:** Ansible, nginx, Apache, Rancher, iptables
+- **Backend:** FastAPI, Flask, Pydantic, SQLAlchemy, Celery, REST APIs, WebSockets / sockets
+- **Testing:** PyTest, Playwright, Selenium, Postman, API testing
 
 ---
 
 #### :man_student: Education
 
-Ufa State Aviation Technical University (Russia), 2006
-Specialist Diploma in Comprehensive Protection of Information Objects
-Evaluated as U.S. Master of Science in Information Security
+**Ufa State Aviation Technical University** (Russia)<br>
+Specialist Diploma in Comprehensive Protection of Information Objects<br>
+_(Evaluated as U.S. Master of Science in Information Security)_
 
 ---
 
-### :briefcase: You can look at my portfolio in the repositories:
+#### :briefcase: Projects
 
-<mark>AUTOMATION</mark>
+**In progress**
 
-[eBay QA Framework](https://github.com/alfatetan/qa_automation_sample_ebay) - the simple QA Framework
+- **LinguoCombine** — an adaptive language-learning toolkit I built for myself (English, in my case). _Private for now, coming soon._
+  - Builds a personal vocabulary from any text, Russian or English, and adds words that match the learner's own profile: interests and background they describe and can edit at any time.
+  - Tracks mistakes in pronunciation, spelling and grammar. Grammar errors are traced back to the rule behind them, and anything that keeps going wrong is sent back for practice, with Anki sync for words and grammar.
+  - Interfaces: a web app, a Telegram bot for voice and text conversation, a typing trainer, and a reader with pronunciation checks via Azure AI Speech.
+- **[Anomaly detection lab](https://github.com/alfatetan/anomaly-detection-lab)** — notebooks on detecting anomalies in test, pipeline and time-series data. _Starting soon._
 
-[Robotic Calls - old version](https://github.com/alfatetan/robotron) - Robotic Calls automation sample
-
-<mark>WEBDESIGN</mark>
-
-[Interior Website Layout](https://github.com/alfatetan/html_css_layout_ex_interior) - Example of website layout
-
-[Waxom Website Layout](https://github.com/alfatetan/html_css_layout_ex_waxom) - Example of website layout
-
-[Rewind Website Layout](https://github.com/alfatetan/html_css_layout_ex_rewind) - Example of website layout
-
-<mark>CRYPTO / ETHEREUM API</mark>
-
-[ERC20 Wallets Balances Tracker](https://github.com/alfatetan/erc20_wallets_tracker)
-
-[Parse price history to JSON](https://github.com/alfatetan/get_token_prices_to_json)
-
-<mark>NETWORK</mark>
-
-[Example of socket implementation](https://github.com/alfatetan/sockets_simple)
-
-<mark>Simple CI/CD</mark>
-
-[CI/CD Very Simple Demo Example](https://github.com/alfatetan/ci_python_demo)
+**Earlier experiments:** [ERC20 balances tracker](https://github.com/alfatetan/erc20_wallets_tracker) · [Token price parser](https://github.com/alfatetan/get_token_prices_to_json) · [Sockets demo](https://github.com/alfatetan/sockets_simple) · [CI demo](https://github.com/alfatetan/ci_python_demo) · [eBay QA framework](https://github.com/alfatetan/qa_automation_sample_ebay) · [Robotic calls on Asterisk](https://github.com/alfatetan/robotron)
 
 ---
 
-**Contact with me via:**
+#### :memo: Writing
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=LinkedIn&logoColor=blue)](https://www.linkedin.com/in/sergei-riabov)
-[![Gmail](https://img.shields.io/badge/-Email-090909?style=for-the-badge&logo=Gmail&logoColor=rd)](mailto:me@sryabov.com)
-
-<!--
-**alfatetan/Alfatetan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Notes on anomaly detection, data and reliability, plus the occasional story about my history with computers, at [sryabov.com](https://sryabov.com).
